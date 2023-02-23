@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "FourierTransformation", "FourierTransformation\FourierTransformation.pyproj", "{F2E937FF-D9D2-4B22-BF25-E383498462F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2E937FF-D9D2-4B22-BF25-E383498462F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2E937FF-D9D2-4B22-BF25-E383498462F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F18D5409-57F7-4F19-B11D-AFB8345DE3AC}
+	EndGlobalSection
+EndGlobal
